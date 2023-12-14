@@ -1,0 +1,98 @@
+.wrapper{
+    width: 520px;
+    height: 580px;
+    background: transparent;
+    border: 2px solid rgba(255,255,255,.2);
+    backdrop-filter: blur(30px);
+    box-shadow: 0 0 10px rgba(0,0,0,.2);
+    color: #45034b;
+    padding: 5px 15px;
+    margin-left: 350px;
+    margin-top: 50px;
+    border-color: #45034b;
+    border-radius: 20px;
+    box-shadow: 0 0 10px black;
+    background-color:  rgb(216, 195, 159);
+    
+
+    
+  }
+  
+  #title{
+    border-color: rgb(49, 6, 54);
+    margin-left: 265px;
+    margin-top: -65px;
+  }
+  #welcome{
+    margin-left: 130px;
+    margin-top: -50px;
+    border-color: #45034b;
+  }
+  #email_text{
+    margin-top: -10px;
+    margin-left: 60px;
+    border-color: #45034b;
+  }
+  #password_text{
+    Margin-left: 60px;
+    border-color: #45034b;
+  }
+  #text{
+    height: 40px;
+    width: 400px;
+    margin-left: 60px;
+    border-color: #45034b;
+
+  }
+  #forgot_pass{
+    font-size: 18px;
+    margin-left: 6px;
+    border-color: #45034b;
+  }
+  #login_button{
+    margin-left: 5px;
+    margin-top: -5px;
+    height: 40px;
+    width: 240px;
+    border-color: #45034b;
+    
+    
+  }
+  #login_button1{
+    margin-left: 5px;
+    margin-top: 2px;
+    height: 60px;
+    height: 40px;
+    width: 240px;
+    border-color: #45034b;
+  }
+  .hr
+  {
+    margin-top: -10px;
+  }
+  #sign_msg{
+    font-size: 18px;
+    margin-top:25px;
+    margin-left: 5px;
+  }
+  hr{
+    background-color: rgb(255, 0, 0);
+  }
+  #new{
+      justify-content: space-between;
+      margin: -15px 0 15px;
+      align-items: end;
+      
+  }
+  #new a {
+   padding-left: 135px;
+   text-decoration: none;
+  }
+
+  #new a:hover{
+color: black;
+  }
+
+  #new label{
+    padding-left:60px;
+  }

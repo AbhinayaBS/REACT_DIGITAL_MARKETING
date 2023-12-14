@@ -1,0 +1,98 @@
+.body
+{
+    align-items: center;
+}
+#login_box{
+    background-color:  rgb(216, 195, 159);
+    margin-left: 350px;
+    margin-top: 15px;
+    padding: 5px 10px;
+    height:900px;
+    width: 550px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px black;
+    
+}
+#title{
+    color: #45034b;
+    margin-left: 162px;
+    margin-top: -65px;
+}
+#welcome{
+    margin-left: 135px;
+}
+#email_text{
+    margin-left: 60px;
+
+}
+#password_text{
+    Margin-left: 60px;
+    
+}
+#text{
+    height: 40px;
+    width: 400px;
+    margin-left: 60px;
+    border-radius: 10px;
+    border-color: #45034b;
+}
+#forgot_pass{
+    margin-left: 60px;
+}
+
+#Conf_pass
+{
+     margin-left: 60px;
+     
+}
+
+#age
+{
+     margin-left: 60px;
+}
+#num
+{
+    margin-left: 60px;
+    height: 40px;
+    width: 400px;
+    border-radius: 10px;
+    border-color: #45034b;
+}
+
+#signin_button{
+    margin-left: 100px;
+    height: 60px;
+    width: 330px;
+    border-radius: 10px;
+    background-color: #d987e0;
+    cursor: pointer;
+}
+#signin_button:hover{
+    background-color: rgb(134, 125, 74);
+}
+
+#sign_msg
+{
+    margin-left: 200px;
+}
+hr{
+    background-color: rgb(255, 0, 0);
+}
+
+#back1
+{
+    
+    background-repeat: no-repeat;
+    background-size:cover;
+    padding-bottom: 200px;
+    padding-top: 60px;
+    box-shadow: rgb(7, 1, 39);
+    
+    
+    
+}
+#align
+{
+    align-items: center;
+
+}
