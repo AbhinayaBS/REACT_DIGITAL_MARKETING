@@ -1,0 +1,48 @@
+/* AboutUs.css */
+
+.about-us-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.card-content {
+  text-align: center;
+}
+
+.card {
+  box-shadow: 0 8px 16px rgba(69, 3, 75, 0.2); /* Set box shadow color to #45034b */
+  max-width: 600px; /* Limit the card width */
+  width: 100%; /* Ensure the card takes full width within its container */
+  border: 2px solid #45034b; /* Add border with color #45034b */
+  border-radius: 8px; /* Optional: Add border-radius for rounded corners */
+}
+
+.social-icons {
+  margin-top: 20px;
+
+  button {
+    margin: 0 10px;
+    padding: 8px;
+    color: #fff;
+    background-color: #007bff;
+    transition: background-color 0.3s ease;
+
+    &:hover {
+      background-color: #0056b3;
+    }
+
+    svg {
+      font-size: 24px;
+    }
+  }
+}
+
+.digix-text {
+  color: #45034b;
+}
+#about{
+  margin-left: 300px;
+  margin-top: 200px;
+}

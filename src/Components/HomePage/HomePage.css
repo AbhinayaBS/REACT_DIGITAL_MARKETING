@@ -1,0 +1,58 @@
+/* HomePage.css */
+
+.about-us {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Adjust this value based on your design */
+}
+
+.about-card {
+  width: 80%;
+  max-width: 600px; /* Adjust this value based on your design */
+  padding: 20px;
+  text-align: center;
+  margin: auto;
+}
+
+.pic {
+  width: 150px;
+  margin-bottom: 20px;
+}
+
+.text {
+  margin-top: 20px;
+}
+
+.primary-action-button {
+  background-color: #45034b;
+  color: #fff;
+}
+
+.footer {
+  background-color: #45034b;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.social-icon {
+  margin: 0 10px;
+  color: #fff;
+  font-size: 24px;
+  text-decoration: none;
+  transition: color 0.3s ease;
+
+  &:hover {
+    color: #007bff;
+  }
+}
